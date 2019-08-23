@@ -19,9 +19,10 @@ Now , we need to fetch tweets through Twitter API, one needs to register an App 
   REsult:
   Positive comments :
   
-   ![Image of the first tree]( https://github.com/Samery00/Opinion-Mining-twitter-sentiment-Analysis/blob/readme(modif)/result.png)
+   ![Image of the first tree]( https://github.com/Samery00/Opinion-Mining-twitter-sentiment-Analysis-/blob/master/result.PNG)
+   
   Negative Comments :
    
-   ![Image of the first tree]( https://github.com/Samery00/Opinion-Mining-twitter-sentiment-Analysis/blob/readme(modif)/result1.png)
+   ![Image of the first tree]( https://github.com/Samery00/Opinion-Mining-twitter-sentiment-Analysis-/blob/master/result1.PNG)
 
  
