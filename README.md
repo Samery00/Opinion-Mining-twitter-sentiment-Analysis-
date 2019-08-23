@@ -13,5 +13,15 @@ Now , we need to fetch tweets through Twitter API, one needs to register an App 
  - Fill the details.
  - Open the ‘Keys and Access Tokens’ tab.
  - And Copy ‘Consumer Key’, ‘Consumer Secret’, ‘Access token’ and ‘Access Token Secret’, then replace in the code.
- 
+  
+  
+  
+  REsult:
+  Positive comments :
+  
+   ![Image of the first tree]( https://github.com/Samery00/Opinion-Mining-twitter-sentiment-Analysis/blob/readme(modif)/result.png)
+  Negative Comments :
+   
+   ![Image of the first tree]( https://github.com/Samery00/Opinion-Mining-twitter-sentiment-Analysis/blob/readme(modif)/result1.png)
+
  
