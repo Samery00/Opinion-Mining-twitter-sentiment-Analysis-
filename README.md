@@ -1,6 +1,8 @@
 # Opinion-Mining-twitter-sentiment-Analysis-
-This proposed code is useful to analyse sentiments from twitter comments using Twitter API
-Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral
+This proposed code is useful to analyse sentiments from twitter comments using Twitter API. 
+
+Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. 
+
 requirements:
   Tweepy: tweepy is the python client for the official Twitter API.
         use this command to install using pip : pip install tweepy
