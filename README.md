@@ -22,7 +22,7 @@ Now , we need to fetch tweets through Twitter API, one needs to register an App 
   
   
   
-  REsult:
+  Results:
   
   Positive comments :
   
